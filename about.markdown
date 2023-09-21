@@ -4,17 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+2023-09-20
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+i learn things everyday. that's not a brag. you learn things everyday. everybody learns things everyday. but no one documents such learnings. one day, one might learn a small thing in passing. and the next day gain a little more understanding of that thing. that is all learning. this is my attempt to remember. and to document small incremental growths. my work in progress notebook.
 
 lem
