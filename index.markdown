@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+bytehala's notes - not a final product, not a final anything. things i learned, and may or may not fully understand yet. it's a notebook, not a publication. it's not supposed to be perfect, it's always a work in progress - as am i.

@@ -18,21 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: notebook/
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  bytehala's notes - not a final product, not a final anything. things i learned, and may or may not
+  fully understand yet. it's a notebook, not a publication.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  bytehala
 
 # Build settings
 theme: just-the-docs
 plugins:
   - jekyll-feed
+
+
+fonts:
+  google_fonts: 'https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Fira+Mono&display=swap'
+  heading: 'DM Sans'
+  base: 'DM Sans'
+  monospace: 'Fira Mono'
+  logo: 'DM Sans'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
